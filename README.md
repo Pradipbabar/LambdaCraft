@@ -4,22 +4,21 @@ Welcome to the AWS Lambda with Python learning repository! This repository aims 
 
 ## Table of Contents
 
-1. [Introduction to AWS Lambda](#1-introduction-to-aws-lambda)
-2. [Setting Up AWS Lambda with Python](#2-setting-up-aws-lambda-with-python)
-3. [Working with Lambda Functions](#3-working-with-lambda-functions)
-4. [Lambda Runtimes and Layers](#4-lambda-runtimes-and-layers)
-5. [Serverless Framework and AWS CDK](#5-serverless-framework-and-aws-cdk)
-6. [Advanced Lambda Concepts](#6-advanced-lambda-concepts)
-7. [Event Sources and Triggers](#7-event-sources-and-triggers)
-8. [Connecting Lambda with Other AWS Services](#8-connecting-lambda-with-other-aws-services)
-9. [Performance Optimization](#9-performance-optimization)
-10. [CI/CD for Serverless Applications](#10-cicd-for-serverless-applications)
-11. [Security Best Practices](#11-security-best-practices)
-12. [Cost Optimization Strategies](#12-cost-optimization-strategies)
-13. [Real-world Examples and Case Studies](#13-real-world-examples-and-case-studies)
-14. [Community Contributions and Updates](#14-community-contributions-and-updates)
-15. [Documentation and Readme](#15-documentation-and-readme)
-16. [Additional Resources](#16-additional-resources)
+1. [Introduction to AWS Lambda](/01_Introduction_to_AWS_Lambda/)
+2. [Setting Up AWS Lambda with Python](/02_Setting_Up_AWS_Lambda_with_Python/)
+3. [Working with Lambda Functions](/03_Working_with_Lambda_Functions/)
+4. [Lambda Runtimes and Layers](/04_Lambda_Runtimes_and_Layers/)
+5. [Serverless Framework and AWS CDK](/05_Serverless_Framework_and_AWS_CDK/)
+6. [Advanced Lambda Concepts](/06_Advanced_Lambda_Concepts/)
+7. [Event Sources and Triggers](/07_Event_Sources_and_Triggers/)
+8. [Connecting Lambda with Other AWS Services](/08_Connecting_Lambda_with_Other_AWS_Services/)
+9. [Performance Optimization](/09_Performance_Optimization/)
+10. [CI/CD for Serverless Applications](/10_CI_CD_for_Serverless_Applications/)
+11. [Security Best Practices](/11_Security_Best_Practices/)
+12. [Cost Optimization Strategies](/12_Cost_Optimization_Strategies/)
+13. [Real-world Examples and Case Studies](/13_Real-world_Examples_and_Case_Studies/)
+14. [Community Contributions and Updates](/14_Community_Contributions_and_Updates/)
+15. [Additional Resources](#15-additional-resources)
 
 ## 1. Introduction to AWS Lambda
 
@@ -94,13 +93,7 @@ Welcome to the AWS Lambda with Python learning repository! This repository aims 
 - Encourage contributions from the community.
 - Regularly update the repository with the latest AWS Lambda features and best practices.
 
-## 15. Documentation and Readme
-
-- Comprehensive documentation for each topic.
-- Clear instructions for setting up and running examples.
-- Troubleshooting guide.
-
-## 16. Additional Resources
+## 15. Additional Resources
 
 ### Links to Relevant AWS Documentation:
 - [AWS Lambda Documentation](https://docs.aws.amazon.com/lambda)

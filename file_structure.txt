@@ -14,8 +14,6 @@
 13_Real-world_Examples_and_Case_Studies/
 14_Community_Contributions_and_Updates/
 15_Documentation_and_Readme/
-16_Additional_Resources/
-file_structure.txt
 LICENSE
 README.md
 
@@ -111,8 +109,3 @@ readme.md
 setup_and_run_examples.md
 troubleshooting_guide.md
 
-./16_Additional_Resources:
-aws_documentation_links.md
-community_forums_and_discussion_groups.md
-readme.md
-recommended_books_blogs_courses.md
