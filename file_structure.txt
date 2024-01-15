@@ -13,7 +13,6 @@
 12_Cost_Optimization_Strategies/
 13_Real-world_Examples_and_Case_Studies/
 14_Community_Contributions_and_Updates/
-15_Documentation_and_Readme/
 LICENSE
 README.md
 
@@ -102,10 +101,4 @@ readme.md
 contributing.md
 readme.md
 update_guidelines.md
-
-./15_Documentation_and_Readme:
-documentation_guidelines.md
-readme.md
-setup_and_run_examples.md
-troubleshooting_guide.md
 
